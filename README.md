@@ -13,11 +13,11 @@ This project takes a text file as input, compresses it using Huffman’s algorit
 - Easy-to-use command-line interface
 
 📂 Project Structure
-├── HuffmanFinal.cpp                 # Source code
+├── HuffmanFinal.cpp        # Source code
 ├── input.txt               # Sample input text file / Decrypted file
 ├── output.txt              # Encrypted file
-├── ASCII.txt              # Encrypted or Decrypted file in ASCII format
-├── README.md            # Project documentation
+├── ASCII.txt               # Encrypted or Decrypted file in ASCII format
+├── README.md               # Project documentation
 
 🤝 Contributing
 Contributions are welcome! Feel free to fork this repo, create a branch, and submit a pull request.
